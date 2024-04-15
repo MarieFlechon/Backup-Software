@@ -10,9 +10,9 @@
 Code backup software and its extensions to encrypt backups and monitor backups from another computer
 
 ### Repo Content 
-BackupSoftware_Code: All Visual Studio projects and sources for software that compose the project.
-BackupSoftware_Exe: Backup software executables and documentation.
-Project_Management: Project's ULM Diagrams.
+* **BackupSoftware_Code:** All Visual Studio projects and sources for software that compose the project.
+* **BackupSoftware_Exe:** Backup software executables and documentation.
+* **Project_Management:** Project's ULM Diagrams.
 
 
 ---
