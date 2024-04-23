@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RemoteInterface/1.0.0": {
+        "runtime": {
+          "RemoteInterface.dll": {}
+        },
+        "resources": {
+          "FR/RemoteInterface.resources.dll": {
+            "locale": "FR"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RemoteInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
