@@ -18,6 +18,7 @@ Code backup software and its extensions to encrypt backups and monitor backups f
 ---
 ## Visual
 <p align="center">
-  <img src="https://i.ibb.co/jvbg1h7/Easy-Save-Visual.png" alt="EasySave Visual" width="600">
+  <img src="image.png" width="600">
 </p>
+
 
