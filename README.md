@@ -7,13 +7,19 @@
 ---
 ## Overview
 ### Project goal 
-Code backup software and its extensions to encrypt backups and monitor backups from another computer
+This project aimed to develop a reliable and secure data backup solution for end-users. The software allows users to back up files and folders to local or network storage, with AES encryption extension ensuring data confidentiality. Additionally, it includes a remote monitoring feature with a graphical user interface for displaying backup status and details.
 
-### Repo Content 
-* **BackupSoftware_Code:** All Visual Studio projects and sources for software that compose the project.
-* **BackupSoftware_Exe:** Backup software executables and documentation.
-* **Project_Management:** Project's ULM Diagrams.
 
+## Features
+
+- Backup files and folders locally or over the network
+- AES encryption for data confidentiality
+- Remote monitoring with a graphical user interface
+
+
+## Dependencies
+
+- .NET Framework
 
 ---
 ## Visual
